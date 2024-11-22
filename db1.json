@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "sruthi06",
+      "password": "sruthi06",
+      "email": "saikancharla08@gmail.com",
+      "eme1": "056451321753",
+      "eme2": "9063146980",
+      "id": "c4fd"
+    },
+    {
+      "id": "611d",
+      "username": "sruthi06",
+      "password": "12345678",
+      "email": "ramkan@gmail.com",
+      "eme1": "12346789904",
+      "eme2": "13846"
+    },
+    {
+      "username": "newUser",
+      "password": "newUser",
+      "email": "saikancharla08@gmail.com",
+      "eme1": "123456789",
+      "eme2": "0987654321",
+      "id": "17d2"
+    }
+  ]
+}

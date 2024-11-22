@@ -1,0 +1,34 @@
+.feature-image {
+    transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+    position: relative;
+
+  }
+  
+  .feature-image:hover {
+    transform: translateX(10px);
+    opacity: 0.9;
+  }
+  
+  /* Optional: Add a bounce effect */
+  .feature-image:hover {
+    animation: bounce 0.5s ease-in-out;
+  }
+  
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateX(10px);
+    }
+    50% {
+      transform: translateX(5px);
+    }
+  }
+  /* Add this to your styles.css or within a <style> tag in your JSX */
+.img-hover-effect {
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for transform and shadow */
+  }
+  
+  .img-hover-effect:hover {
+    transform: scale(1.05);  /* Scale the image slightly */
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); /* Add a subtle shadow when hovered */
+  }
+  
