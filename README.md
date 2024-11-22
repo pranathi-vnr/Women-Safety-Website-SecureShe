@@ -9,12 +9,12 @@ Technologies used:
 ![alert](https://github.com/user-attachments/assets/11a0f348-cecd-4cc6-a374-633a4f9fd744)
 
  install the following to run this :
-json-server
-leaflet
-react
-react-dom
-react-hook-dom
-react-hook-form
-react-icons
-react-leaflet
-react-router-dom
+json-server,
+leaflet ,
+react ,
+react-dom ,
+react-hook-dom ,
+react-hook-form ,
+react-icons ,
+react-leaflet ,
+react-router-dom ,
