@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Antic+Slab&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Roboto+Slab:wght@100..900&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&family=Vollkorn:ital,wght@0,400..900;1,400..900&family=Yrsa:ital,wght@0,300..700;1,300..700&display=swap');
+*{
+    font-family: "Yrsa", serif;
+  font-optical-sizing: auto;
+}
