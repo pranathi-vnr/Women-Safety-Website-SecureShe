@@ -27,22 +27,22 @@ npm run dev
 Here are some screenshots of the SecureShe website:
 
 - **Home Page**  
-  ![Home](screenshots/Home.png)
+  ![Home](Screenshots/Home.png)
 
 - **Education About Violence**  
-  ![Education About Violence](screenshots/EducationAboutViolence.png)
+  ![Education About Violence](Screenshots/EducationAboutViolence.png)
 
-  - **Safety Tutorials**  
-  ![Safety Tutorials](screenshots/Safetytutorials.png)
+- **Safety Tutorials**  
+  ![Safety Tutorials](Screenshots/Safetytutorials.png)
 
 - **Alert Zones**  
-  ![Alert Zones](screenshots/AlertZones.png)
+  ![Alert Zones](Screenshots/AlertZones.png)
 
 - **Login Page**  
-  ![Login](screenshots/Login.png)
+  ![Login](Screenshots/Login.png)
 
 - **Register Page**  
-  ![Register](screenshots/Registor.png)
+  ![Register](Screenshots/Registor.png)
 
 
 
