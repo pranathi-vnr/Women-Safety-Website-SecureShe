@@ -6,8 +6,6 @@ A simple local database is used to store user information . Only registered user
 **Technologies used**:
  react js , Html , CSS , Javascript , Bootstrap ,Leaflet
  jason server for backend
- ![home](https://github.com/user-attachments/assets/b224e032-6951-4a84-8c2a-3682718831b3)
-![alert](https://github.com/user-attachments/assets/11a0f348-cecd-4cc6-a374-633a4f9fd744)
 
 ## Prerequisites
 
