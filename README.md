@@ -38,11 +38,12 @@ Here are some screenshots of the SecureShe website:
 - **Alert Zones**  
   ![Alert Zones](Screenshots/AlertZones.png)
 
+- **Register Page**  
+  ![Register](Screenshots/Registor.png)
+
 - **Login Page**  
   ![Login](Screenshots/Login.png)
 
-- **Register Page**  
-  ![Register](Screenshots/Registor.png)
 
 
 
