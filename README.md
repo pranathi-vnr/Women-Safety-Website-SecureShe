@@ -1,6 +1,7 @@
 ### Women-Safety-Website SecureShe
 
-**SecureShe** is simple women safety website . It consists of heat maps locating unsafe areas marked by other women . It also has emergency sos buttons .
+**SecureShe** is simple women safety website . It consists of heat maps locating unsafe areas marked by other 
+women . It also has emergency sos buttons .
 A simple local database is used to store user information . Only registered users can login to the website .  In their profile page they can also mark unsafe areas . This page also has emegency buttons . the are not connected with any messaging apis . just a simple bootstrap is used for sending the user a notification
 
 **Technologies used**:
